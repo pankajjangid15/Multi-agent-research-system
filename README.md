@@ -23,8 +23,8 @@ ResearchMind is an AI-powered research assistant that uses multiple AI agents to
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/ResearchMind.git
-cd ResearchMind
+https://github.com/pankajjangid15/Multi-agent-research-system.git
+cd Multi-agent-research-system
 pip install -r requirements.txt
 ```
 
